@@ -1,0 +1,74 @@
+Customer Segmentation – Cluster Report
+Overview
+
+This project segments mall customers using K-Means clustering based on age, annual income, 
+and spending behavior. The Elbow Method identified 5 optimal clusters, representing distinct 
+customer groups. These segments help businesses design targeted marketing strategies.
+
+Cluster 0 – High Income, High Spending Customers
+
+Profile:
+High annual income, High spending score, Typically premium customers
+
+Business Insight:
+These customers contribute the most revenue and are brand loyal.
+
+Marketing Action:
+Offer premium memberships, Exclusive discounts, Early access to new products
+
+Cluster 1 – Low Income, Low Spending Customers
+
+Profile:
+Low income
+Low spending score
+Price-sensitive customers
+
+Business Insight:
+This group is cautious with spending and responds well to affordability.
+
+Marketing Action:
+Provide discounts and coupons, Promote budget-friendly products, Seasonal offers
+
+Cluster 2 – High Income, Low Spending Customers
+
+Profile:
+High income
+Low spending score
+Careful or selective buyers
+
+Business Insight:
+These customers have purchasing power but need persuasion.
+
+Marketing Action:
+Personalized recommendations, Premium product awareness campaigns, Loyalty programs
+
+Cluster 3 – Low Income, High Spending Customers
+
+Profile:
+Low income
+High spending score
+Impulsive or trend-driven buyers
+
+Business Insight:
+Despite limited income, they spend actively.
+
+Marketing Action:
+Limited-time offers, Flash sales, Trend-based promotions
+
+Cluster 4 – Average Income, Average Spending Customers
+
+Profile:
+Moderate income
+Moderate spending score
+Regular customers
+
+Business Insight:
+This is a stable customer base with consistent purchases.
+
+Marketing Action:
+Retention strategies, Bundled product offers, Reward points programs
+
+Conclusion
+Customer segmentation enables personalized marketing and better customer engagement. 
+By identifying different spending behaviors, businesses can optimize promotions, 
+improve customer satisfaction, and increase overall revenue.
